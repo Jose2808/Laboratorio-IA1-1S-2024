@@ -1,11 +1,10 @@
 {
-  "name": "EjemploClase3",
-  "projectId": "52f0c92a-97b5-4dfe-9025-efb70151ba3e",
-  "description": "Ejemplo de automatización en clase 3",
+  "name": "Ejemplo2Clase4",
+  "projectId": "39e7a2f1-c5a9-4aa3-93a6-a668576c3e2a",
+  "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.23.3-preview]",
-    "UiPath.GSuite.Activities": "[2.6.22]",
     "UiPath.Mail.Activities": "[1.22.2]",
     "UiPath.System.Activities": "[24.3.1]",
     "UiPath.Testing.Activities": "[24.4.0-preview]",
@@ -15,7 +14,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "24.4.0.0",
-  "projectVersion": "1.0.5",
+  "projectVersion": "1.0.0",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -51,7 +50,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "48285383-7a11-4139-bf31-a01d250845b4",
+      "uniqueId": "6c045a9e-43d9-4d08-a473-5b6e14f9042c",
       "input": [],
       "output": []
     }
